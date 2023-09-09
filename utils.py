@@ -10,7 +10,18 @@ class utils:
         for i in TEST_SET:
             rev_res.append(self.reversed(i))
             formatter_res.append(self.formatter(i))
-        return [rev_res, formatter_res]
+
+        binary_res = []
+        octal_res = []
+        for i in formatter_res:
+            if i is not False:
+                binary_res.append(i[0])
+                octal_res.append(i[1])
+            else:
+                binary_res.append(i)
+                octal_res.append(i)
+
+        return [rev_res, binary_res, octal_res]
 
     def reversed(self, number):
         # if the given is not of type integer (int), we print a msg and we return false

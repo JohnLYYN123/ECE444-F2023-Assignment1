@@ -28,3 +28,11 @@ rebase branch log
 
 #### after git rebase
 
+Used: git rebase develop rebase
+![img_7.png](img_7.png)
+
+after using "git log" on the develop branch
+![img_8.png](img_8.png)
+
+
+

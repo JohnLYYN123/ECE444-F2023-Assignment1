@@ -2,12 +2,15 @@
 
 TEST_SET = ["1234", "string", 12.34, 1234, 10, 12, 1.4, "31314151"]
 
+
 class utils:
     def execute_code(self):
-        rev_result = []
+        rev_res = []
+        formatter_res = []
         for i in TEST_SET:
-            rev_result.append(self.reversed(i))
-        return rev_result
+            rev_res.append(self.reversed(i))
+            formatter_res.append(self.formatter(i))
+        return [rev_res, formatter_res]
 
     def reversed(self, number):
         # if the given is not of type integer (int), we print a msg and we return false
@@ -23,8 +26,17 @@ class utils:
 
         return rev_num
 
+    def formatter(self, number):
+        if isinstance(number, int) is False:
+            # print("the given parameter is not an integer")
+            return False
+
+        bi_num = bin(number)
+        oct_num = oct(number)
+        return [bi_num, oct_num]
+
 
 if __name__ == "__main__":
     obj = utils()
-    rev_list = obj.execute_code()
-    print("the reversed list is " + str(rev_list))
+    res_list = obj.execute_code()
+    print(res_list)

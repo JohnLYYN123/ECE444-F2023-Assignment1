@@ -2,6 +2,4 @@
 
 print("Hello World, I am Yihang, and I have been at U of T for four years")
 
-# commit 3
-
 

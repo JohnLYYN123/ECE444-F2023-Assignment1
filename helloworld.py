@@ -3,5 +3,3 @@
 print("Hello World, I am Yihang, and I have been at U of T for four years")
 print("my favorite food is ice cream")
 print("my favorite computer language is Python")
-
-print("this is commit 4")

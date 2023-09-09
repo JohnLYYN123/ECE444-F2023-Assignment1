@@ -3,19 +3,6 @@
 print("Hello World, I am Yihang, and I have been at U of T for four years")
 print("my favorite food is ice cream")
 print("my favorite computer language is Python")
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-# comment about commit 2
-
-=======
-print("this is commit 4")
->>>>>>> e5a4a6b (commit 4)
-=======
->>>>>>> 1d35ac2 (Revert "commit 4")
-=======
-
 
 # this is commit 3
->>>>>>> 085a96c (Commit 3)
+

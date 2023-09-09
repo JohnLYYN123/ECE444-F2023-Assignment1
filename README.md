@@ -19,20 +19,25 @@ Commit histories for Activity 4
 ![img_4.png](img_4.png)
 
 ### Activity 5: Git Rebase
+For this activity, please refer to branches develop_new and rebase_new for changes in code
+
 #### Before git rebase
-develop branch log
+Commits in rebase_new
 ![img_5.png](img_5.png)
 
-rebase branch log
+Commits in develop_new
 ![img_6.png](img_6.png)
 
 #### after git rebase
-
-Used: git rebase develop rebase
+On the rebase_new branch:
 ![img_7.png](img_7.png)
 
-after using "git log" on the develop branch
+On the develop_new branch:
 ![img_8.png](img_8.png)
+
+![img_9.png](img_9.png)
+
+![img_10.png](img_10.png)
 
 
 

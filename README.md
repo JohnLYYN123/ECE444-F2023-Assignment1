@@ -18,3 +18,13 @@ Successful merge from develop to main
 Commit histories for Activity 4
 ![img_4.png](img_4.png)
 
+### Activity 5: Git Rebase
+#### Before git rebase
+develop branch log
+![img_5.png](img_5.png)
+
+rebase branch log
+![img_6.png](img_6.png)
+
+#### after git rebase
+

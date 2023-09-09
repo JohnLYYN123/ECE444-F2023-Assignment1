@@ -1,5 +1,4 @@
 # This is the utils class
-# commit 3
 
 TEST_SET = ["1234", "string", 12.34, 1234, 10, 12, 1.4, "31314151"]
 

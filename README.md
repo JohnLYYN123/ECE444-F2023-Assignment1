@@ -19,7 +19,8 @@ Commit histories for Activity 4
 ![img_4.png](img_4.png)
 
 ### Activity 5: Git Rebase
-For this activity, please refer to branches develop_new and rebase_new for changes in code
+For this activity, please refer to branches develop_new and rebase_new for changes in code. 
+The main branch's README.md has the most updated version.
 
 #### Before git rebase
 Commits in rebase_new
@@ -30,14 +31,18 @@ Commits in develop_new
 
 #### after git rebase
 On the rebase_new branch:
+Using git rebase develop_new
 ![img_7.png](img_7.png)
 
 On the develop_new branch:
+Using git rebase rebase_new
 ![img_8.png](img_8.png)
 
 ![img_9.png](img_9.png)
 
 ![img_10.png](img_10.png)
+
+
 
 
 

@@ -31,14 +31,18 @@ Commits in develop_new
 
 #### after git rebase
 On the rebase_new branch:
+Using git rebase develop_new
 ![img_7.png](img_7.png)
 
 On the develop_new branch:
+Using git rebase rebase_new
 ![img_8.png](img_8.png)
 
 ![img_9.png](img_9.png)
 
 ![img_10.png](img_10.png)
+
+
 
 
 

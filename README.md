@@ -17,6 +17,7 @@ Successful merge from develop to main
 ### Activity 4: Unit Test
 Commit histories for Activity 4
 ![img_4.png](img_4.png)
+![img_11.png](img_11.png)
 
 ### Activity 5: Git Rebase
 For this activity, please refer to branches develop_new and rebase_new for changes in code. 

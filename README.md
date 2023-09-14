@@ -1,5 +1,5 @@
 ## ECE444 Assignment 1 (individual) -- self-assessment
-Student Name: Yihang Lin
+## Student Name: Yihang Lin
 
 ### Activity 1: Create Repo and Commit
 ![img_1.png](img_1.png)

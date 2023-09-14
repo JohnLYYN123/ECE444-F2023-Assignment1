@@ -4,6 +4,7 @@ TEST_SET = ["1234", "string", 12.34, 1234, 10, 12, 1.4, "31314151"]
 
 
 class utils:
+    # helper function for activity
     def execute_code(self):
         rev_res = []
         formatter_res = []
